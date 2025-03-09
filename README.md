@@ -1,4 +1,4 @@
-# 📉Budget Tracker 
+# 💰📊Budget Tracker 
 
 Dieses Projekt hilft dir, deine Finanzen zu verwalten, indem es Einnahmen und Ausgaben verfolgt.
 
