@@ -2,7 +2,7 @@
 
 Dieses Projekt hilft dir, deine Finanzen zu verwalten, indem es Einnahmen und Ausgaben verfolgt.
 
-## Installation 
+## 🔧 Installation 
 
 ### Voraussetzungen 
 - Python 3.x installiert 
